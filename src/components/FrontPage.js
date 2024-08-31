@@ -15,8 +15,9 @@ export default function FrontPage () {
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav ms-auto">
                             <li className="nav-item"><a className="nav-link Anchor-tag" href="https://github.com/Deepb4u/Portfolio.git">Portfolio</a></li>
-                            <li className="nav-item"><a className="nav-link Anchor-tag" href="#">Blog</a></li>
-                            <li className="nav-item"><button className="btn btn-primary">Hire Me</button></li>
+                            {/* <li className="nav-item"><a className="nav-link Anchor-tag" href="#">Blog</a></li> */}
+                            <li className="nav-item"><a className="nav-link Anchor-tag" href="mailto:deepbansode1@gmail.com?subject=Contact%20from%20Portfolio">Hire me</a></li>
+                            {/* <li className="nav-item"><button className="btn btn-primary">Hire Me</button></li> */}
                         </ul>
                     </div>
                 </div>

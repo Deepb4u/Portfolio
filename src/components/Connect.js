@@ -33,7 +33,7 @@ export default function Connect () {
             <a className="Icons mx-4" href="https://www.instagram.com/deep_.0_7_0?igsh=aDJ1YmgyOXlnc3Zy" target="blank"><i class="fa-brands fa-instagram"></i></a>
             <a className="Icons mx-4" href="http://www.linkedin.com/in/deep-bansode-021388249" target="blank"><i class="fa-brands fa-linkedin"></i></a>
             <a className="Icons mx-4" href=" https://github.com/Deepb4u" target="blank"><i class="fa-brands fa-github"></i></a>
-            <a className="Icons mx-4" href=" http://www.deepbansode1@gmail.com" target="blank"><i class="fa-regular fa-envelope"></i></a>
+            <a className="Icons mx-4" href="mailto:deepbansode1@gmail.com?subject=Contact%20from%20Portfolio" target="blank"><i class="fa-regular fa-envelope"></i></a>
         </div>
         </footer>
         </>
