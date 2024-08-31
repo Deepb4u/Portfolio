@@ -3,7 +3,7 @@ import React from "react";
 export default function Connect () {
     return(
         <>
-        <footer className="py-5 footer1">
+        <footer className="py-4 footer1">
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
@@ -28,13 +28,13 @@ export default function Connect () {
                         </form>
                     </div>
                 </div>
-                        <div className="social-link my-1">
-                            <a className="Icons mx-4" href="https://www.instagram.com/deep_.0_7_0?igsh=aDJ1YmgyOXlnc3Zy" target="blank"><i class="fa-brands fa-instagram"></i></a>
-                            <a className="Icons mx-4" href="http://www.linkedin.com/in/deep-bansode-021388249" target="blank"><i class="fa-brands fa-linkedin"></i></a>
-                            <a className="Icons mx-4" href=" https://github.com/Deepb4u" target="blank"><i class="fa-brands fa-github"></i></a>
-                            <a className="Icons mx-4" href=" http://www.deepbansode1@gmail.com" target="blank"><i class="fa-regular fa-envelope"></i></a>
-                        </div>
             </div>
+        <div className="social-link pt-5">
+            <a className="Icons mx-4" href="https://www.instagram.com/deep_.0_7_0?igsh=aDJ1YmgyOXlnc3Zy" target="blank"><i class="fa-brands fa-instagram"></i></a>
+            <a className="Icons mx-4" href="http://www.linkedin.com/in/deep-bansode-021388249" target="blank"><i class="fa-brands fa-linkedin"></i></a>
+            <a className="Icons mx-4" href=" https://github.com/Deepb4u" target="blank"><i class="fa-brands fa-github"></i></a>
+            <a className="Icons mx-4" href=" http://www.deepbansode1@gmail.com" target="blank"><i class="fa-regular fa-envelope"></i></a>
+        </div>
         </footer>
         </>
     )

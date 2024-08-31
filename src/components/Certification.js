@@ -14,25 +14,25 @@ export default function Certificate (){
                     I have successfully completed several advanced courses that strengthen my expertise in computer science and programming. These certifications highlight my commitment to continuous learning and my proficiency in key areas of the field.
                 </p>
                 <div className="row mt-4">
-                    <div className="col-md-6 text-center mb-4">
+                    <div className="col-md-6 text-center py-5">
                         <div className="certification-item">
                             <img src={USK_Infotech} className="img-fluid img1" alt="Internship Certificate"/>
                             <h5 className="cert-title mt-3">Internship Certificate</h5>
                         </div>
                     </div>
-                    <div className="col-md-6 text-center mb-4">
+                    <div className="col-md-6 text-center py-5">
                         <div className="certification-item">
                             <img src={Computer_science} className="img-fluid" alt="Computer Science MetaBootcamp"/>
                             <h5 className="cert-title mt-3">Computer Science MetaBootcamp: Beginner to Intermediate 2024</h5>
                         </div>
                     </div>
-                    <div className="col-md-6 text-center mb-4">
+                    <div className="col-md-6 text-center py-5">
                         <div className="certification-item">
                             <img src={C_Cpp_Certificate} className="img-fluid" alt="Mastering C & C++ Programming"/>
                             <h5 className="cert-title mt-3">Mastering C & C++ Programming: From Fundamentals to Advanced</h5>
                         </div>
                     </div>
-                    <div className="col-md-6 text-center mb-4">
+                    <div className="col-md-6 text-center py-5">
                         <div className="certification-item">
                             <img src={JavaScript_Certi} className="img-fluid" alt="JavaScript Certification"/>
                             <h5 className="cert-title mt-3">JavaScript Certification</h5>
