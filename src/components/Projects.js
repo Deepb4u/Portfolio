@@ -1,0 +1,37 @@
+import React from "react";
+
+export default function Project () {
+    return(
+        <>
+            <div className="container">
+                <h3 className="resume-coloum-title about-h text-center my-4">Projects</h3>
+                <div className="resume-item my-4">
+                    <h2 className="resume-item-title Project-Heading">Netflix Clone</h2>
+                    <span >June 2024</span>
+                    <div><span>Technologies Used: HTML, CSS And JavaScript</span></div>
+                    <p className="resume-item-des">Developed a fully responsive Netflix clone that replicates the user interface of Netflix. The project involved
+                                creating a visually appealing homepage with a movie poster carousel, featured content section.</p>
+                    <p className="resume-item-des text-center"><a className="view_Project" href="https://deepb4u.github.io/Netflix-Clone/" target="_blank">View Project</a></p>
+                </div>
+                <hr/>
+                <div className="resume-item my-4">
+                    <h2 className="resume-item-title Project-Heading">Currency Converter Application</h2>
+                    <span>July 2023</span>
+                    <p className="resume-item-des">Created a currency converter application that fetches real-time currency exchange rates from an API and
+                            allows users to convert amounts between different currencies.</p>
+                    <p className="resume-item-des text-center"><a className="view_Project" href="https://deepb4u.github.io/CurrencyConverter/" target="_blank">View Project</a></p>
+                </div>
+                <hr/>
+                <div className="resume-item my-4">
+                    <h2 className="resume-item-title Project-Heading">TextFlex</h2>
+                    <span>Aug 2024</span>
+                        <p className="resume-item-des">TextFlex is a simple yet powerful text manipulation tool built with React. It allows users to effortlessly convert text to uppercase or lowercase, remove extra spaces, and copy the text to the clipboard. To enhance the user experience, the app features both light and dark mode, TextFlex is your go-to app for clean and flexible text management.</p>
+                        <p className="resume-item-des text-center"><a className="view_Project" href="https://deepb4u.github.io/TextFlex/" target="_blank">View Project</a></p>
+                </div>
+            </div>
+            <div className="text-center mt-4">
+                <button className="btn btn-primary"><i className="fa-solid fa-download"></i> <a className="download_CV Anchor-tag" href="https://drive.google.com/file/d/1BBU-aUDIR4d9_6SbSTyoVAr-4LtSQrdR/view?usp=drivesdk">Download CV</a></button>
+            </div>
+        </>
+    )
+}

@@ -1,0 +1,159 @@
+
+header {
+  background-color:#f9d3b4;
+  background: linear-gradient( to top,#f8f9fad8, #a8a9a9af);
+  padding: 10px 0;
+}
+
+.banner {
+  /* background-color: #f8f8f8;  */
+  /* background: linear-gradient( to right, #ada9a9, #f8f8f8); */
+  padding: 50px 0;
+  
+}
+
+.Icons{
+  text-decoration: none;
+  color: #4A4A4A;
+  font-size: 25px;
+}
+
+.social-link{
+  display: block;
+  align-items: center;
+  text-align: center;
+}
+
+.view_Project{
+  text-decoration: underline;
+  color: #343a40 ;
+}
+
+.Anchor-tag{
+  text-decoration: none;
+  color: white;
+}
+
+.Navbar{
+  background-color: #4A4A4A;
+  color: white;
+}
+
+.Project-Heading{
+  margin-bottom: 0.8rem;
+}
+
+.my-Education .resume-item{
+  width: 45%;
+}
+
+.my-Education{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.my-Education-h3{
+  display: block;
+  width: 100%;
+}
+
+.about {
+  background-color: #f4f5f5; 
+  padding: 40px 0;
+  margin-top: 40px;
+}
+.about-p{
+  padding: 20px;
+}
+
+.skill {
+  background-color: #f4f5f5;
+  border: 1px solid #cbc6c6;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.resume-item {
+  background-color: #f4f5f5;
+  border: 1px solid #cbc6c6;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.footer {
+  background-color: #343a40; 
+  color: #ffffff;
+  /* padding: 40px 0; */
+}
+
+.footer a {
+  color: #ffffff;
+}
+
+.footer a:hover {
+  color: #adb5bd;
+}
+
+.btn-primary {
+  background-color: #4A4A4A;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #575757b5;
+}
+.download_CV{
+  text-decoration: none;
+}
+.text-primary{
+  color: #4A4A4A;
+}
+/* Footer Styles */
+.footer {
+  background-color: #343a40; /* Dark background color */
+  color: #ffffff; /* White text color */
+  /* padding:  */
+  height: 50px;
+}
+
+.footer p {
+  margin: 0;
+}
+.footer1{
+
+  background: linear-gradient( to bottom,#f8f9fad8, #a8a9a9af);
+}
+.img1{
+  padding-top: 3rem;
+}
+.pic{
+  height:40%;
+  width: 40%;
+  /* padding: 1rem; */
+  opacity: 0.9;
+  margin: 2rem;
+}
+@media(min-width:900px){
+  .container .img{
+      text-align: right;
+  }
+  .py-5 .mt-4{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly                       ;
+  }
+}
+@media (max-width: 900px){
+  .my-Education{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+  }
+
+  .my-Education .resume-item{
+      width: 100%;
+  }
+}
