@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.68ecf463.css",
-    "main.js": "/Portfolio/static/js/main.5c20a4a5.js",
+    "main.css": "/Portfolio/static/css/main.55477abe.css",
+    "main.js": "/Portfolio/static/js/main.e239bc56.js",
     "static/js/453.08c78f33.chunk.js": "/Portfolio/static/js/453.08c78f33.chunk.js",
     "static/media/Profile-pic.png": "/Portfolio/static/media/Profile-pic.b5bcd3bab784aaa24ce8.png",
     "static/media/Computer Science MeteBootcamp(Certificate).jpg": "/Portfolio/static/media/Computer Science MeteBootcamp(Certificate).28a43133293d4fdf231b.jpg",
@@ -10,12 +10,12 @@
     "static/media/javaScript certificate.jpg": "/Portfolio/static/media/javaScript certificate.2fe8567742aff04c256d.jpg",
     "static/media/NodeJs.webp": "/Portfolio/static/media/NodeJs.1ead21886a02014fc2b5.webp",
     "index.html": "/Portfolio/index.html",
-    "main.68ecf463.css.map": "/Portfolio/static/css/main.68ecf463.css.map",
-    "main.5c20a4a5.js.map": "/Portfolio/static/js/main.5c20a4a5.js.map",
+    "main.55477abe.css.map": "/Portfolio/static/css/main.55477abe.css.map",
+    "main.e239bc56.js.map": "/Portfolio/static/js/main.e239bc56.js.map",
     "453.08c78f33.chunk.js.map": "/Portfolio/static/js/453.08c78f33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68ecf463.css",
-    "static/js/main.5c20a4a5.js"
+    "static/css/main.55477abe.css",
+    "static/js/main.e239bc56.js"
   ]
 }
