@@ -2,8 +2,7 @@ import React from "react";
 
 export default function About () {
     return(
-        <div>
-            <section className="container about py-5">
+            <section className="container about my-5">
             <div className="container text-center text-lg-start">
                 <h3 className="about-h text-center mb-4">About Me</h3>
                 <p className="about-p text-center">I recently graduated with a B.E. in Electronics and Telecommunication Engineering from Ajeenkya D Y Patil School of Engineering. In addition to my coursework, I possess a strong foundation in HTML and CSS, which I have honed through various projects. My passion for web development drives me to continuously improve my skills and stay updated with the latest industry trends. My projects showcase my ability to create visually appealing, user-friendly interfaces and ensure compatibility across different devices through responsive design.</p>
@@ -35,6 +34,5 @@ export default function About () {
                 </div>
             </div>
         </section>
-        </div>
     )
 }

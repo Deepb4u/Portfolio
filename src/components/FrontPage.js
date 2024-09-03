@@ -22,7 +22,7 @@ export default function FrontPage () {
                     </div>
                 </div>
             </nav>
-            <div className="container banner text-center text-lg-start">
+            <div className="container text-center text-lg-start">
                 <div className="row align-items-center">
                     <div className="col-lg-6">
                         <h3 className="banner-1">Hi, I am</h3>

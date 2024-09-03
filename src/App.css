@@ -1,7 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+}
 
+body, .CopyRight{
+  background-color: #151515;
+  color: white;
+}
 header {
-  background-color:#f9d3b4;
-  background: linear-gradient( to top,#f8f9fad8, #a8a9a9af);
+  background-color:#000000;
+  /* background: linear-gradient( to top,#f8f9fad8, #a8a9a9af); */
+  background: #302869;
   padding: 10px 0;
 }
 
@@ -14,8 +23,12 @@ header {
 
 .Icons{
   text-decoration: none;
-  color: #4A4A4A;
+  color: white;
   font-size: 25px;
+}
+
+.Icons:hover{
+  
 }
 
 .social-link{
@@ -26,17 +39,17 @@ header {
 
 .view_Project{
   text-decoration: underline;
-  color: #343a40 ;
+  color: #2e42f6 ;
 }
 
 .Anchor-tag{
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .Navbar{
-  background-color: #4A4A4A;
-  color: white;
+  background-color: #221e45;
+  color: #ffffff;
 }
 
 .Project-Heading{
@@ -59,7 +72,8 @@ header {
 }
 
 .about {
-  background-color: #f4f5f5; 
+  background-color: #221e45; 
+  color: white;
   padding: 40px 0;
   margin-top: 40px;
 }
@@ -68,15 +82,17 @@ header {
 }
 
 .skill {
-  background-color: #f4f5f5;
-  border: 1px solid #cbc6c6;
+  background-color: #221e45;
+  border: 1px solid #ffffff;
+  color: white;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 5px;
 }
 
 .resume-item {
-  background-color: #f4f5f5;
+  background-color: #221e45;
+  color: white;
   border: 1px solid #cbc6c6;
   padding: 20px;
   margin-bottom: 20px;
@@ -98,12 +114,12 @@ header {
 }
 
 .btn-primary {
-  background-color: #4A4A4A;
+  background-color: #5050c9;
   border: none;
 }
 
 .btn-primary:hover {
-  background-color: #575757b5;
+  background-color: #231698;
 }
 .download_CV{
   text-decoration: none;
@@ -124,11 +140,12 @@ header {
 }
 .footer1{
 
-  background: linear-gradient( to bottom,#f8f9fad8, #a8a9a9af);
+  background: #221e45;
 }
 .img1{
   padding-top: 3rem;
 }
+
 .pic{
   height:40%;
   width: 40%;
