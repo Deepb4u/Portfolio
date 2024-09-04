@@ -9,26 +9,21 @@ body, .CopyRight{
 }
 header {
   background-color:#000000;
-  /* background: linear-gradient( to top,#f8f9fad8, #a8a9a9af); */
-  background: #302869;
+  background: #6e2b38;
   padding: 10px 0;
 }
 
+
+
 .banner {
-  /* background-color: #f8f8f8;  */
-  /* background: linear-gradient( to right, #ada9a9, #f8f8f8); */
   padding: 50px 0;
   
 }
 
 .Icons{
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 25px;
-}
-
-.Icons:hover{
-  
 }
 
 .social-link{
@@ -39,7 +34,7 @@ header {
 
 .view_Project{
   text-decoration: underline;
-  color: #2e42f6 ;
+  color: #f37676 ;
 }
 
 .Anchor-tag{
@@ -48,7 +43,7 @@ header {
 }
 
 .Navbar{
-  background-color: #221e45;
+  background-color: #441d23;
   color: #ffffff;
 }
 
@@ -72,7 +67,7 @@ header {
 }
 
 .about {
-  background-color: #221e45; 
+  background-color: #481d23; 
   color: white;
   padding: 40px 0;
   margin-top: 40px;
@@ -82,7 +77,7 @@ header {
 }
 
 .skill {
-  background-color: #221e45;
+  background-color: #481d23;
   border: 1px solid #ffffff;
   color: white;
   padding: 20px;
@@ -91,7 +86,7 @@ header {
 }
 
 .resume-item {
-  background-color: #221e45;
+  background-color: #481d23;
   color: white;
   border: 1px solid #cbc6c6;
   padding: 20px;
@@ -114,12 +109,12 @@ header {
 }
 
 .btn-primary {
-  background-color: #5050c9;
+  background-color: #ab4b59;
   border: none;
 }
 
 .btn-primary:hover {
-  background-color: #231698;
+  background-color: #481d23;
 }
 .download_CV{
   text-decoration: none;
@@ -140,7 +135,7 @@ header {
 }
 .footer1{
 
-  background: #221e45;
+  background: #481d23;
 }
 .img1{
   padding-top: 3rem;
