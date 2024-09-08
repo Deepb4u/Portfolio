@@ -4,16 +4,9 @@ body{
 }
 
 body, .CopyRight{
-  background-color: #151515;
+  background-color: #1c1a1a;
   color: white;
 }
-header {
-  background-color:#000000;
-  background: #6e2b38;
-  padding: 10px 0;
-}
-
-
 
 .banner {
   padding: 50px 0;
@@ -109,12 +102,12 @@ header {
 }
 
 .btn-primary {
-  background-color: #ab4b59;
+  background-color: #441d23;
   border: none;
 }
 
 .btn-primary:hover {
-  background-color: #481d23;
+  background-color: #73373f;
 }
 .download_CV{
   text-decoration: none;
