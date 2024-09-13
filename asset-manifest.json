@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4e91185d.css",
-    "main.js": "/Portfolio/static/js/main.3a7d2053.js",
+    "main.js": "/Portfolio/static/js/main.2da1f85b.js",
     "static/js/453.08c78f33.chunk.js": "/Portfolio/static/js/453.08c78f33.chunk.js",
     "static/media/Profile-pic.png": "/Portfolio/static/media/Profile-pic.b5bcd3bab784aaa24ce8.png",
     "static/media/Computer Science MeteBootcamp(Certificate).jpg": "/Portfolio/static/media/Computer Science MeteBootcamp(Certificate).28a43133293d4fdf231b.jpg",
@@ -11,11 +11,11 @@
     "static/media/NodeJs.webp": "/Portfolio/static/media/NodeJs.1ead21886a02014fc2b5.webp",
     "index.html": "/Portfolio/index.html",
     "main.4e91185d.css.map": "/Portfolio/static/css/main.4e91185d.css.map",
-    "main.3a7d2053.js.map": "/Portfolio/static/js/main.3a7d2053.js.map",
+    "main.2da1f85b.js.map": "/Portfolio/static/js/main.2da1f85b.js.map",
     "453.08c78f33.chunk.js.map": "/Portfolio/static/js/453.08c78f33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e91185d.css",
-    "static/js/main.3a7d2053.js"
+    "static/js/main.2da1f85b.js"
   ]
 }
