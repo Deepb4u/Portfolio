@@ -15,6 +15,13 @@ export default function Project () {
                 </div>
                 <hr/>
                 <div className="resume-item my-4">
+                    <h2 className="resume-item-title Project-Heading">TextFlex</h2>
+                    <span>Aug 2024</span>
+                        <p className="resume-item-des">TextFlex is a simple yet powerful text manipulation tool built with React. It allows users to effortlessly convert text to uppercase or lowercase, remove extra spaces, and copy the text to the clipboard. To enhance the user experience, the app features both light and dark mode, TextFlex is your go-to app for clean and flexible text management.</p>
+                        <p className="resume-item-des text-center"><a className="view_Project" href="https://deepb4u.github.io/TextFlex/" target="_blank">View Project</a></p>
+                </div>
+                <hr/>
+                <div className="resume-item my-4">
                     <h2 className="resume-item-title Project-Heading">Currency Converter Application</h2>
                     <span>July 2023</span>
                     <p className="resume-item-des">Created a currency converter application that fetches real-time currency exchange rates from an API and
@@ -23,10 +30,17 @@ export default function Project () {
                 </div>
                 <hr/>
                 <div className="resume-item my-4">
-                    <h2 className="resume-item-title Project-Heading">TextFlex</h2>
+                    <h2 className="resume-item-title Project-Heading">Rock-Paper-scissors</h2>
                     <span>Aug 2024</span>
-                        <p className="resume-item-des">TextFlex is a simple yet powerful text manipulation tool built with React. It allows users to effortlessly convert text to uppercase or lowercase, remove extra spaces, and copy the text to the clipboard. To enhance the user experience, the app features both light and dark mode, TextFlex is your go-to app for clean and flexible text management.</p>
-                        <p className="resume-item-des text-center"><a className="view_Project" href="https://deepb4u.github.io/TextFlex/" target="_blank">View Project</a></p>
+                        <p className="resume-item-des">Developed an interactive Stone Paper Scissors game that allows users to play against the computer.</p>
+                        <p className="resume-item-des text-center"><a className="view_Project" href="https://deepb4u.github.io/Rock-Paper-scissors/" target="_blank">View Project</a></p>
+                </div>
+                <hr/>
+                <div className="resume-item my-4">
+                    <h2 className="resume-item-title Project-Heading">Tic-Tac-Toe-Game</h2>
+                    <span>Aug 2024</span>
+                        <p className="resume-item-des">This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to take turns and compete to get three in a row (horizontally, vertically, or diagonally). The design is minimalistic, and the game logic is implemented in JavaScript, making it interactive and responsive.</p>
+                        <p className="resume-item-des text-center"><a className="view_Project" href=" https://deepb4u.github.io/Tic-Tac-Toe-Game/" target="_blank">View Project</a></p>
                 </div>
             </div>
             <div className="text-center mt-4">
